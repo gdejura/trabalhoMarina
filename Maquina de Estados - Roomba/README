@@ -5,3 +5,5 @@ O resto dos script são estados dos agentes.
 Quando um agente troca de estado ele informa no log a mudança.
 
 O Coelho brinca, dorme e come fazendo sujeira na sala. O Roomba anda, recarrega, limpa e refaz rota tentando manter a sujeira do coelho controlada.
+
+O arquivo Doc Máquina de estados contém a explicação a fundo e é um pdf.
