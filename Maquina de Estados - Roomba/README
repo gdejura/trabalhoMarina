@@ -1,4 +1,4 @@
-Baixe o projeto Maquina de Estados. Para executar vá em Máquina de Estados->src->main.
+Baixe o projeto Maquina de Estados - Roomba. Para executar vá em Máquina de Estados-Roomba -> src -> main.
 Na parta src temos todas as classes, os agentes são Coelho e Roomba. Temos a interface State, a classe Abstract State e o Main.
 O resto dos script são estados dos agentes. 
 
